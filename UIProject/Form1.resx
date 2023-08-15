@@ -1,0 +1,1971 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="&gt;&gt;tpFile.Name" xml:space="preserve">
+    <value>tpFile</value>
+  </data>
+  <data name="&gt;&gt;tpFile.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.PoisonTabPage, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;tpFile.Parent" xml:space="preserve">
+    <value>tabMain</value>
+  </data>
+  <data name="&gt;&gt;tpFile.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;tpAbout.Name" xml:space="preserve">
+    <value>tpAbout</value>
+  </data>
+  <data name="&gt;&gt;tpAbout.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.PoisonTabPage, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;tpAbout.Parent" xml:space="preserve">
+    <value>tabMain</value>
+  </data>
+  <data name="&gt;&gt;tpAbout.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="tabMain.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Top</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="tabMain.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 60</value>
+  </data>
+  <data name="tabMain.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1846, 147</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="tabMain.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;tabMain.Name" xml:space="preserve">
+    <value>tabMain</value>
+  </data>
+  <data name="&gt;&gt;tabMain.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.PoisonTabControl, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;tabMain.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;tabMain.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;btnLuuDoThi.Name" xml:space="preserve">
+    <value>btnLuuDoThi</value>
+  </data>
+  <data name="&gt;&gt;btnLuuDoThi.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.PoisonButton, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnLuuDoThi.Parent" xml:space="preserve">
+    <value>tpFile</value>
+  </data>
+  <data name="&gt;&gt;btnLuuDoThi.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;btnLuuFile.Name" xml:space="preserve">
+    <value>btnLuuFile</value>
+  </data>
+  <data name="&gt;&gt;btnLuuFile.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.PoisonButton, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnLuuFile.Parent" xml:space="preserve">
+    <value>tpFile</value>
+  </data>
+  <data name="&gt;&gt;btnLuuFile.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;btnMoFile.Name" xml:space="preserve">
+    <value>btnMoFile</value>
+  </data>
+  <data name="&gt;&gt;btnMoFile.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.PoisonButton, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnMoFile.Parent" xml:space="preserve">
+    <value>tpFile</value>
+  </data>
+  <data name="&gt;&gt;btnMoFile.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;ribbonGroupBox1.Name" xml:space="preserve">
+    <value>ribbonGroupBox1</value>
+  </data>
+  <data name="&gt;&gt;ribbonGroupBox1.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.RibbonGroupBox, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;ribbonGroupBox1.Parent" xml:space="preserve">
+    <value>tpFile</value>
+  </data>
+  <data name="&gt;&gt;ribbonGroupBox1.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="tpFile.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 38</value>
+  </data>
+  <data name="tpFile.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1838, 105</value>
+  </data>
+  <data name="tpFile.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="tpFile.Text" xml:space="preserve">
+    <value>File</value>
+  </data>
+  <data name="&gt;&gt;tpFile.Name" xml:space="preserve">
+    <value>tpFile</value>
+  </data>
+  <data name="&gt;&gt;tpFile.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.PoisonTabPage, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;tpFile.Parent" xml:space="preserve">
+    <value>tabMain</value>
+  </data>
+  <data name="&gt;&gt;tpFile.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btnLuuDoThi.Location" type="System.Drawing.Point, System.Drawing">
+    <value>315, 22</value>
+  </data>
+  <data name="btnLuuDoThi.Size" type="System.Drawing.Size, System.Drawing">
+    <value>137, 42</value>
+  </data>
+  <data name="btnLuuDoThi.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="btnLuuDoThi.Text" xml:space="preserve">
+    <value>Lưu Ảnh Đồ Thị</value>
+  </data>
+  <data name="&gt;&gt;btnLuuDoThi.Name" xml:space="preserve">
+    <value>btnLuuDoThi</value>
+  </data>
+  <data name="&gt;&gt;btnLuuDoThi.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.PoisonButton, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnLuuDoThi.Parent" xml:space="preserve">
+    <value>tpFile</value>
+  </data>
+  <data name="&gt;&gt;btnLuuDoThi.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="btnLuuFile.Location" type="System.Drawing.Point, System.Drawing">
+    <value>158, 22</value>
+  </data>
+  <data name="btnLuuFile.Size" type="System.Drawing.Size, System.Drawing">
+    <value>137, 42</value>
+  </data>
+  <data name="btnLuuFile.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="btnLuuFile.Text" xml:space="preserve">
+    <value>Lưu File</value>
+  </data>
+  <data name="&gt;&gt;btnLuuFile.Name" xml:space="preserve">
+    <value>btnLuuFile</value>
+  </data>
+  <data name="&gt;&gt;btnLuuFile.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.PoisonButton, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnLuuFile.Parent" xml:space="preserve">
+    <value>tpFile</value>
+  </data>
+  <data name="&gt;&gt;btnLuuFile.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="btnMoFile.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 22</value>
+  </data>
+  <data name="btnMoFile.Size" type="System.Drawing.Size, System.Drawing">
+    <value>137, 42</value>
+  </data>
+  <data name="btnMoFile.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="btnMoFile.Text" xml:space="preserve">
+    <value>Mở File</value>
+  </data>
+  <data name="&gt;&gt;btnMoFile.Name" xml:space="preserve">
+    <value>btnMoFile</value>
+  </data>
+  <data name="&gt;&gt;btnMoFile.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.PoisonButton, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnMoFile.Parent" xml:space="preserve">
+    <value>tpFile</value>
+  </data>
+  <data name="&gt;&gt;btnMoFile.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="ribbonGroupBox1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 10pt, style=Bold</value>
+  </data>
+  <data name="ribbonGroupBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 111</value>
+  </data>
+  <data name="ribbonGroupBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>315, 343</value>
+  </data>
+  <data name="ribbonGroupBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="ribbonGroupBox1.Text" xml:space="preserve">
+    <value>ribbonGroupBox1</value>
+  </data>
+  <data name="&gt;&gt;ribbonGroupBox1.Name" xml:space="preserve">
+    <value>ribbonGroupBox1</value>
+  </data>
+  <data name="&gt;&gt;ribbonGroupBox1.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.RibbonGroupBox, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;ribbonGroupBox1.Parent" xml:space="preserve">
+    <value>tpFile</value>
+  </data>
+  <data name="&gt;&gt;ribbonGroupBox1.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;btnAboutUs.Name" xml:space="preserve">
+    <value>btnAboutUs</value>
+  </data>
+  <data name="&gt;&gt;btnAboutUs.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.PoisonButton, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnAboutUs.Parent" xml:space="preserve">
+    <value>tpAbout</value>
+  </data>
+  <data name="&gt;&gt;btnAboutUs.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="tpAbout.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 38</value>
+  </data>
+  <data name="tpAbout.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1838, 105</value>
+  </data>
+  <data name="tpAbout.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="tpAbout.Text" xml:space="preserve">
+    <value>About</value>
+  </data>
+  <data name="&gt;&gt;tpAbout.Name" xml:space="preserve">
+    <value>tpAbout</value>
+  </data>
+  <data name="&gt;&gt;tpAbout.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.PoisonTabPage, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;tpAbout.Parent" xml:space="preserve">
+    <value>tabMain</value>
+  </data>
+  <data name="&gt;&gt;tpAbout.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="btnAboutUs.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 22</value>
+  </data>
+  <data name="btnAboutUs.Size" type="System.Drawing.Size, System.Drawing">
+    <value>137, 42</value>
+  </data>
+  <data name="btnAboutUs.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="btnAboutUs.Text" xml:space="preserve">
+    <value>About Us</value>
+  </data>
+  <data name="&gt;&gt;btnAboutUs.Name" xml:space="preserve">
+    <value>btnAboutUs</value>
+  </data>
+  <data name="&gt;&gt;btnAboutUs.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.PoisonButton, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnAboutUs.Parent" xml:space="preserve">
+    <value>tpAbout</value>
+  </data>
+  <data name="&gt;&gt;btnAboutUs.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="tabMatrix.Alignment" type="System.Windows.Forms.TabAlignment, System.Windows.Forms">
+    <value>Left</value>
+  </data>
+  <data name="lstInputWM.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt</value>
+  </data>
+  <data name="lstInputWM.Location" type="System.Drawing.Point, System.Drawing">
+    <value>21, 13</value>
+  </data>
+  <data name="lstInputWM.Size" type="System.Drawing.Size, System.Drawing">
+    <value>333, 202</value>
+  </data>
+  <data name="lstInputWM.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;lstInputWM.Name" xml:space="preserve">
+    <value>lstInputWM</value>
+  </data>
+  <data name="&gt;&gt;lstInputWM.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.PoisonListView, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;lstInputWM.Parent" xml:space="preserve">
+    <value>tpMatrix1</value>
+  </data>
+  <data name="&gt;&gt;lstInputWM.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="tpMatrix1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>119, 4</value>
+  </data>
+  <data name="tpMatrix1.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="tpMatrix1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>398, 233</value>
+  </data>
+  <data name="tpMatrix1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="tpMatrix1.Text" xml:space="preserve">
+    <value>Trọng số</value>
+  </data>
+  <data name="&gt;&gt;tpMatrix1.Name" xml:space="preserve">
+    <value>tpMatrix1</value>
+  </data>
+  <data name="&gt;&gt;tpMatrix1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tpMatrix1.Parent" xml:space="preserve">
+    <value>tabMatrix</value>
+  </data>
+  <data name="&gt;&gt;tpMatrix1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;lstInputAM.Name" xml:space="preserve">
+    <value>lstInputAM</value>
+  </data>
+  <data name="&gt;&gt;lstInputAM.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.PoisonListView, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;lstInputAM.Parent" xml:space="preserve">
+    <value>tpMatrix2</value>
+  </data>
+  <data name="&gt;&gt;lstInputAM.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="tpMatrix2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>119, 4</value>
+  </data>
+  <data name="tpMatrix2.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="tpMatrix2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>398, 233</value>
+  </data>
+  <data name="tpMatrix2.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="tpMatrix2.Text" xml:space="preserve">
+    <value>Kề</value>
+  </data>
+  <data name="&gt;&gt;tpMatrix2.Name" xml:space="preserve">
+    <value>tpMatrix2</value>
+  </data>
+  <data name="&gt;&gt;tpMatrix2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tpMatrix2.Parent" xml:space="preserve">
+    <value>tabMatrix</value>
+  </data>
+  <data name="&gt;&gt;tpMatrix2.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="tabMatrix.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 7.8pt</value>
+  </data>
+  <data name="tabMatrix.ItemSize" type="System.Drawing.Size, System.Drawing">
+    <value>30, 115</value>
+  </data>
+  <data name="tabMatrix.Location" type="System.Drawing.Point, System.Drawing">
+    <value>15, 30</value>
+  </data>
+  <data name="tabMatrix.Size" type="System.Drawing.Size, System.Drawing">
+    <value>521, 241</value>
+  </data>
+  <data name="tabMatrix.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;tabMatrix.Name" xml:space="preserve">
+    <value>tabMatrix</value>
+  </data>
+  <data name="&gt;&gt;tabMatrix.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.AirTabPage, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;tabMatrix.Parent" xml:space="preserve">
+    <value>grpMaTranVaKetQua</value>
+  </data>
+  <data name="&gt;&gt;tabMatrix.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="lstInputAM.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt</value>
+  </data>
+  <data name="lstInputAM.Location" type="System.Drawing.Point, System.Drawing">
+    <value>21, 14</value>
+  </data>
+  <data name="lstInputAM.Size" type="System.Drawing.Size, System.Drawing">
+    <value>333, 202</value>
+  </data>
+  <data name="lstInputAM.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;lstInputAM.Name" xml:space="preserve">
+    <value>lstInputAM</value>
+  </data>
+  <data name="&gt;&gt;lstInputAM.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.PoisonListView, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;lstInputAM.Parent" xml:space="preserve">
+    <value>tpMatrix2</value>
+  </data>
+  <data name="&gt;&gt;lstInputAM.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txtKetQua.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI Semibold, 12pt</value>
+  </data>
+  <data name="txtKetQua.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="txtKetQua.Location" type="System.Drawing.Point, System.Drawing">
+    <value>15, 310</value>
+  </data>
+  <data name="txtKetQua.Size" type="System.Drawing.Size, System.Drawing">
+    <value>521, 125</value>
+  </data>
+  <data name="txtKetQua.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;txtKetQua.Name" xml:space="preserve">
+    <value>txtKetQua</value>
+  </data>
+  <data name="&gt;&gt;txtKetQua.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.HopeRichTextBox, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;txtKetQua.Parent" xml:space="preserve">
+    <value>grpMaTranVaKetQua</value>
+  </data>
+  <data name="&gt;&gt;txtKetQua.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="lblKetQua.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblKetQua.Location" type="System.Drawing.Point, System.Drawing">
+    <value>15, 287</value>
+  </data>
+  <data name="lblKetQua.Size" type="System.Drawing.Size, System.Drawing">
+    <value>56, 20</value>
+  </data>
+  <data name="lblKetQua.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="lblKetQua.Text" xml:space="preserve">
+    <value>Kết quả</value>
+  </data>
+  <data name="&gt;&gt;lblKetQua.Name" xml:space="preserve">
+    <value>lblKetQua</value>
+  </data>
+  <data name="&gt;&gt;lblKetQua.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.PoisonLabel, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;lblKetQua.Parent" xml:space="preserve">
+    <value>grpMaTranVaKetQua</value>
+  </data>
+  <data name="&gt;&gt;lblKetQua.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="grpMaTranVaKetQua.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 7.8pt, style=Bold</value>
+  </data>
+  <data name="grpMaTranVaKetQua.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 6</value>
+  </data>
+  <data name="grpMaTranVaKetQua.Size" type="System.Drawing.Size, System.Drawing">
+    <value>550, 454</value>
+  </data>
+  <data name="grpMaTranVaKetQua.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="grpMaTranVaKetQua.Text" xml:space="preserve">
+    <value>Ma trận và kết quả</value>
+  </data>
+  <data name="&gt;&gt;grpMaTranVaKetQua.Name" xml:space="preserve">
+    <value>grpMaTranVaKetQua</value>
+  </data>
+  <data name="&gt;&gt;grpMaTranVaKetQua.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.ParrotGroupBox, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;grpMaTranVaKetQua.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;grpMaTranVaKetQua.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;btnXoaDinhEdit.Name" xml:space="preserve">
+    <value>btnXoaDinhEdit</value>
+  </data>
+  <data name="&gt;&gt;btnXoaDinhEdit.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.PoisonButton, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnXoaDinhEdit.Parent" xml:space="preserve">
+    <value>grpChinhSua</value>
+  </data>
+  <data name="&gt;&gt;btnXoaDinhEdit.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;lblEditVertex.Name" xml:space="preserve">
+    <value>lblEditVertex</value>
+  </data>
+  <data name="&gt;&gt;lblEditVertex.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.MetroLabel, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;lblEditVertex.Parent" xml:space="preserve">
+    <value>grpChinhSua</value>
+  </data>
+  <data name="&gt;&gt;lblEditVertex.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;lblEditEdge.Name" xml:space="preserve">
+    <value>lblEditEdge</value>
+  </data>
+  <data name="&gt;&gt;lblEditEdge.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.MetroLabel, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;lblEditEdge.Parent" xml:space="preserve">
+    <value>grpChinhSua</value>
+  </data>
+  <data name="&gt;&gt;lblEditEdge.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;btnXoaCanh.Name" xml:space="preserve">
+    <value>btnXoaCanh</value>
+  </data>
+  <data name="&gt;&gt;btnXoaCanh.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.PoisonButton, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnXoaCanh.Parent" xml:space="preserve">
+    <value>grpChinhSua</value>
+  </data>
+  <data name="&gt;&gt;btnXoaCanh.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;btnChinhSuaCanh.Name" xml:space="preserve">
+    <value>btnChinhSuaCanh</value>
+  </data>
+  <data name="&gt;&gt;btnChinhSuaCanh.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.PoisonButton, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnChinhSuaCanh.Parent" xml:space="preserve">
+    <value>grpChinhSua</value>
+  </data>
+  <data name="&gt;&gt;btnChinhSuaCanh.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;lblTrongSoEdit.Name" xml:space="preserve">
+    <value>lblTrongSoEdit</value>
+  </data>
+  <data name="&gt;&gt;lblTrongSoEdit.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.PoisonLabel, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;lblTrongSoEdit.Parent" xml:space="preserve">
+    <value>grpChinhSua</value>
+  </data>
+  <data name="&gt;&gt;lblTrongSoEdit.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;lblDinhEdit.Name" xml:space="preserve">
+    <value>lblDinhEdit</value>
+  </data>
+  <data name="&gt;&gt;lblDinhEdit.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.PoisonLabel, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;lblDinhEdit.Parent" xml:space="preserve">
+    <value>grpChinhSua</value>
+  </data>
+  <data name="&gt;&gt;lblDinhEdit.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;lblDinhTruocEdit.Name" xml:space="preserve">
+    <value>lblDinhTruocEdit</value>
+  </data>
+  <data name="&gt;&gt;lblDinhTruocEdit.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.PoisonLabel, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;lblDinhTruocEdit.Parent" xml:space="preserve">
+    <value>grpChinhSua</value>
+  </data>
+  <data name="&gt;&gt;lblDinhTruocEdit.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;lblDinhSauEdit.Name" xml:space="preserve">
+    <value>lblDinhSauEdit</value>
+  </data>
+  <data name="&gt;&gt;lblDinhSauEdit.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.PoisonLabel, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;lblDinhSauEdit.Parent" xml:space="preserve">
+    <value>grpChinhSua</value>
+  </data>
+  <data name="&gt;&gt;lblDinhSauEdit.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;txtDinhEdit.Name" xml:space="preserve">
+    <value>txtDinhEdit</value>
+  </data>
+  <data name="&gt;&gt;txtDinhEdit.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.PoisonTextBox, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;txtDinhEdit.Parent" xml:space="preserve">
+    <value>grpChinhSua</value>
+  </data>
+  <data name="&gt;&gt;txtDinhEdit.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;txtDinhTruocEdit.Name" xml:space="preserve">
+    <value>txtDinhTruocEdit</value>
+  </data>
+  <data name="&gt;&gt;txtDinhTruocEdit.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.PoisonTextBox, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;txtDinhTruocEdit.Parent" xml:space="preserve">
+    <value>grpChinhSua</value>
+  </data>
+  <data name="&gt;&gt;txtDinhTruocEdit.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;txtTrongSoEdit.Name" xml:space="preserve">
+    <value>txtTrongSoEdit</value>
+  </data>
+  <data name="&gt;&gt;txtTrongSoEdit.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.PoisonTextBox, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;txtTrongSoEdit.Parent" xml:space="preserve">
+    <value>grpChinhSua</value>
+  </data>
+  <data name="&gt;&gt;txtTrongSoEdit.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;txtDinhSauEdit.Name" xml:space="preserve">
+    <value>txtDinhSauEdit</value>
+  </data>
+  <data name="&gt;&gt;txtDinhSauEdit.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.PoisonTextBox, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;txtDinhSauEdit.Parent" xml:space="preserve">
+    <value>grpChinhSua</value>
+  </data>
+  <data name="&gt;&gt;txtDinhSauEdit.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="grpChinhSua.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 7.8pt, style=Bold</value>
+  </data>
+  <data name="grpChinhSua.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 466</value>
+  </data>
+  <data name="grpChinhSua.Size" type="System.Drawing.Size, System.Drawing">
+    <value>550, 276</value>
+  </data>
+  <data name="grpChinhSua.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="grpChinhSua.Text" xml:space="preserve">
+    <value>Chỉnh sửa</value>
+  </data>
+  <data name="&gt;&gt;grpChinhSua.Name" xml:space="preserve">
+    <value>grpChinhSua</value>
+  </data>
+  <data name="&gt;&gt;grpChinhSua.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.ParrotGroupBox, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;grpChinhSua.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;grpChinhSua.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btnXoaDinhEdit.Location" type="System.Drawing.Point, System.Drawing">
+    <value>298, 199</value>
+  </data>
+  <data name="btnXoaDinhEdit.Size" type="System.Drawing.Size, System.Drawing">
+    <value>110, 42</value>
+  </data>
+  <data name="btnXoaDinhEdit.TabIndex" type="System.Int32, mscorlib">
+    <value>24</value>
+  </data>
+  <data name="btnXoaDinhEdit.Text" xml:space="preserve">
+    <value>Xóa đỉnh</value>
+  </data>
+  <data name="&gt;&gt;btnXoaDinhEdit.Name" xml:space="preserve">
+    <value>btnXoaDinhEdit</value>
+  </data>
+  <data name="&gt;&gt;btnXoaDinhEdit.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.PoisonButton, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnXoaDinhEdit.Parent" xml:space="preserve">
+    <value>grpChinhSua</value>
+  </data>
+  <data name="&gt;&gt;btnXoaDinhEdit.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="lblEditVertex.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="lblEditVertex.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblEditVertex.Location" type="System.Drawing.Point, System.Drawing">
+    <value>295, 41</value>
+  </data>
+  <data name="lblEditVertex.Size" type="System.Drawing.Size, System.Drawing">
+    <value>149, 29</value>
+  </data>
+  <data name="lblEditVertex.TabIndex" type="System.Int32, mscorlib">
+    <value>23</value>
+  </data>
+  <data name="lblEditVertex.Text" xml:space="preserve">
+    <value>Chỉnh sửa đỉnh</value>
+  </data>
+  <data name="&gt;&gt;lblEditVertex.Name" xml:space="preserve">
+    <value>lblEditVertex</value>
+  </data>
+  <data name="&gt;&gt;lblEditVertex.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.MetroLabel, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;lblEditVertex.Parent" xml:space="preserve">
+    <value>grpChinhSua</value>
+  </data>
+  <data name="&gt;&gt;lblEditVertex.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="lblEditEdge.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="lblEditEdge.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblEditEdge.Location" type="System.Drawing.Point, System.Drawing">
+    <value>15, 41</value>
+  </data>
+  <data name="lblEditEdge.Size" type="System.Drawing.Size, System.Drawing">
+    <value>169, 29</value>
+  </data>
+  <data name="lblEditEdge.TabIndex" type="System.Int32, mscorlib">
+    <value>21</value>
+  </data>
+  <data name="lblEditEdge.Text" xml:space="preserve">
+    <value>Chỉnh sửa cạnh</value>
+  </data>
+  <data name="&gt;&gt;lblEditEdge.Name" xml:space="preserve">
+    <value>lblEditEdge</value>
+  </data>
+  <data name="&gt;&gt;lblEditEdge.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.MetroLabel, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;lblEditEdge.Parent" xml:space="preserve">
+    <value>grpChinhSua</value>
+  </data>
+  <data name="&gt;&gt;lblEditEdge.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="btnXoaCanh.Location" type="System.Drawing.Point, System.Drawing">
+    <value>146, 199</value>
+  </data>
+  <data name="btnXoaCanh.Size" type="System.Drawing.Size, System.Drawing">
+    <value>110, 42</value>
+  </data>
+  <data name="btnXoaCanh.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="btnXoaCanh.Text" xml:space="preserve">
+    <value>Xóa cạnh</value>
+  </data>
+  <data name="&gt;&gt;btnXoaCanh.Name" xml:space="preserve">
+    <value>btnXoaCanh</value>
+  </data>
+  <data name="&gt;&gt;btnXoaCanh.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.PoisonButton, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnXoaCanh.Parent" xml:space="preserve">
+    <value>grpChinhSua</value>
+  </data>
+  <data name="&gt;&gt;btnXoaCanh.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="btnChinhSuaCanh.Location" type="System.Drawing.Point, System.Drawing">
+    <value>15, 199</value>
+  </data>
+  <data name="btnChinhSuaCanh.Size" type="System.Drawing.Size, System.Drawing">
+    <value>107, 42</value>
+  </data>
+  <data name="btnChinhSuaCanh.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="btnChinhSuaCanh.Text" xml:space="preserve">
+    <value>Chỉnh sửa</value>
+  </data>
+  <data name="&gt;&gt;btnChinhSuaCanh.Name" xml:space="preserve">
+    <value>btnChinhSuaCanh</value>
+  </data>
+  <data name="&gt;&gt;btnChinhSuaCanh.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.PoisonButton, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnChinhSuaCanh.Parent" xml:space="preserve">
+    <value>grpChinhSua</value>
+  </data>
+  <data name="&gt;&gt;btnChinhSuaCanh.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="lblTrongSoEdit.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblTrongSoEdit.Location" type="System.Drawing.Point, System.Drawing">
+    <value>15, 161</value>
+  </data>
+  <data name="lblTrongSoEdit.Size" type="System.Drawing.Size, System.Drawing">
+    <value>62, 20</value>
+  </data>
+  <data name="lblTrongSoEdit.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="lblTrongSoEdit.Text" xml:space="preserve">
+    <value>Trọng số</value>
+  </data>
+  <data name="&gt;&gt;lblTrongSoEdit.Name" xml:space="preserve">
+    <value>lblTrongSoEdit</value>
+  </data>
+  <data name="&gt;&gt;lblTrongSoEdit.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.PoisonLabel, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;lblTrongSoEdit.Parent" xml:space="preserve">
+    <value>grpChinhSua</value>
+  </data>
+  <data name="&gt;&gt;lblTrongSoEdit.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="lblDinhEdit.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblDinhEdit.Location" type="System.Drawing.Point, System.Drawing">
+    <value>298, 80</value>
+  </data>
+  <data name="lblDinhEdit.Size" type="System.Drawing.Size, System.Drawing">
+    <value>38, 20</value>
+  </data>
+  <data name="lblDinhEdit.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="lblDinhEdit.Text" xml:space="preserve">
+    <value>Đỉnh</value>
+  </data>
+  <data name="&gt;&gt;lblDinhEdit.Name" xml:space="preserve">
+    <value>lblDinhEdit</value>
+  </data>
+  <data name="&gt;&gt;lblDinhEdit.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.PoisonLabel, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;lblDinhEdit.Parent" xml:space="preserve">
+    <value>grpChinhSua</value>
+  </data>
+  <data name="&gt;&gt;lblDinhEdit.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="lblDinhTruocEdit.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblDinhTruocEdit.Location" type="System.Drawing.Point, System.Drawing">
+    <value>15, 80</value>
+  </data>
+  <data name="lblDinhTruocEdit.Size" type="System.Drawing.Size, System.Drawing">
+    <value>74, 20</value>
+  </data>
+  <data name="lblDinhTruocEdit.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="lblDinhTruocEdit.Text" xml:space="preserve">
+    <value>Đỉnh trước</value>
+  </data>
+  <data name="&gt;&gt;lblDinhTruocEdit.Name" xml:space="preserve">
+    <value>lblDinhTruocEdit</value>
+  </data>
+  <data name="&gt;&gt;lblDinhTruocEdit.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.PoisonLabel, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;lblDinhTruocEdit.Parent" xml:space="preserve">
+    <value>grpChinhSua</value>
+  </data>
+  <data name="&gt;&gt;lblDinhTruocEdit.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="lblDinhSauEdit.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblDinhSauEdit.Location" type="System.Drawing.Point, System.Drawing">
+    <value>15, 119</value>
+  </data>
+  <data name="lblDinhSauEdit.Size" type="System.Drawing.Size, System.Drawing">
+    <value>63, 20</value>
+  </data>
+  <data name="lblDinhSauEdit.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="lblDinhSauEdit.Text" xml:space="preserve">
+    <value>Đỉnh sau</value>
+  </data>
+  <data name="&gt;&gt;lblDinhSauEdit.Name" xml:space="preserve">
+    <value>lblDinhSauEdit</value>
+  </data>
+  <data name="&gt;&gt;lblDinhSauEdit.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.PoisonLabel, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;lblDinhSauEdit.Parent" xml:space="preserve">
+    <value>grpChinhSua</value>
+  </data>
+  <data name="&gt;&gt;lblDinhSauEdit.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="resource.Image" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="resource.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="resource.Location" type="System.Drawing.Point, System.Drawing">
+    <value>107, 1</value>
+  </data>
+  <data name="resource.Size" type="System.Drawing.Size, System.Drawing">
+    <value>25, 25</value>
+  </data>
+  <data name="resource.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="resource.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="txtDinhEdit.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="txtDinhEdit.Location" type="System.Drawing.Point, System.Drawing">
+    <value>403, 80</value>
+  </data>
+  <data name="txtDinhEdit.Size" type="System.Drawing.Size, System.Drawing">
+    <value>133, 27</value>
+  </data>
+  <data name="txtDinhEdit.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;txtDinhEdit.Name" xml:space="preserve">
+    <value>txtDinhEdit</value>
+  </data>
+  <data name="&gt;&gt;txtDinhEdit.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.PoisonTextBox, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;txtDinhEdit.Parent" xml:space="preserve">
+    <value>grpChinhSua</value>
+  </data>
+  <data name="&gt;&gt;txtDinhEdit.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="resource.Image1" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="resource.ImeMode1" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="resource.Location1" type="System.Drawing.Point, System.Drawing">
+    <value>110, 1</value>
+  </data>
+  <data name="resource.Size1" type="System.Drawing.Size, System.Drawing">
+    <value>25, 25</value>
+  </data>
+  <data name="resource.TabIndex1" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="resource.Visible1" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="txtDinhTruocEdit.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="txtDinhTruocEdit.Location" type="System.Drawing.Point, System.Drawing">
+    <value>120, 80</value>
+  </data>
+  <data name="txtDinhTruocEdit.Size" type="System.Drawing.Size, System.Drawing">
+    <value>136, 27</value>
+  </data>
+  <data name="txtDinhTruocEdit.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;txtDinhTruocEdit.Name" xml:space="preserve">
+    <value>txtDinhTruocEdit</value>
+  </data>
+  <data name="&gt;&gt;txtDinhTruocEdit.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.PoisonTextBox, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;txtDinhTruocEdit.Parent" xml:space="preserve">
+    <value>grpChinhSua</value>
+  </data>
+  <data name="&gt;&gt;txtDinhTruocEdit.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="resource.Image2" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="resource.ImeMode2" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="resource.Location2" type="System.Drawing.Point, System.Drawing">
+    <value>110, 1</value>
+  </data>
+  <data name="resource.Size2" type="System.Drawing.Size, System.Drawing">
+    <value>25, 25</value>
+  </data>
+  <data name="resource.TabIndex2" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="resource.Visible2" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="txtTrongSoEdit.Location" type="System.Drawing.Point, System.Drawing">
+    <value>120, 161</value>
+  </data>
+  <data name="txtTrongSoEdit.Size" type="System.Drawing.Size, System.Drawing">
+    <value>136, 27</value>
+  </data>
+  <data name="txtTrongSoEdit.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;txtTrongSoEdit.Name" xml:space="preserve">
+    <value>txtTrongSoEdit</value>
+  </data>
+  <data name="&gt;&gt;txtTrongSoEdit.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.PoisonTextBox, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;txtTrongSoEdit.Parent" xml:space="preserve">
+    <value>grpChinhSua</value>
+  </data>
+  <data name="&gt;&gt;txtTrongSoEdit.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="resource.Image3" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="resource.ImeMode3" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="resource.Location3" type="System.Drawing.Point, System.Drawing">
+    <value>110, 1</value>
+  </data>
+  <data name="resource.Size3" type="System.Drawing.Size, System.Drawing">
+    <value>25, 25</value>
+  </data>
+  <data name="resource.TabIndex3" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="resource.Visible3" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="txtDinhSauEdit.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="txtDinhSauEdit.Location" type="System.Drawing.Point, System.Drawing">
+    <value>120, 119</value>
+  </data>
+  <data name="txtDinhSauEdit.Size" type="System.Drawing.Size, System.Drawing">
+    <value>136, 27</value>
+  </data>
+  <data name="txtDinhSauEdit.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;txtDinhSauEdit.Name" xml:space="preserve">
+    <value>txtDinhSauEdit</value>
+  </data>
+  <data name="&gt;&gt;txtDinhSauEdit.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.PoisonTextBox, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;txtDinhSauEdit.Parent" xml:space="preserve">
+    <value>grpChinhSua</value>
+  </data>
+  <data name="&gt;&gt;txtDinhSauEdit.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="&gt;&gt;picOutput.Name" xml:space="preserve">
+    <value>picOutput</value>
+  </data>
+  <data name="&gt;&gt;picOutput.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;picOutput.Parent" xml:space="preserve">
+    <value>grpGiaoDienDoHoa</value>
+  </data>
+  <data name="&gt;&gt;picOutput.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="grpGiaoDienDoHoa.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 7.8pt, style=Bold</value>
+  </data>
+  <data name="grpGiaoDienDoHoa.Location" type="System.Drawing.Point, System.Drawing">
+    <value>569, 6</value>
+  </data>
+  <data name="grpGiaoDienDoHoa.Size" type="System.Drawing.Size, System.Drawing">
+    <value>833, 736</value>
+  </data>
+  <data name="grpGiaoDienDoHoa.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="grpGiaoDienDoHoa.Text" xml:space="preserve">
+    <value>Giao diện đồ họa</value>
+  </data>
+  <data name="&gt;&gt;grpGiaoDienDoHoa.Name" xml:space="preserve">
+    <value>grpGiaoDienDoHoa</value>
+  </data>
+  <data name="&gt;&gt;grpGiaoDienDoHoa.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.ParrotGroupBox, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;grpGiaoDienDoHoa.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;grpGiaoDienDoHoa.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="picOutput.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="picOutput.Location" type="System.Drawing.Point, System.Drawing">
+    <value>24, 30</value>
+  </data>
+  <data name="picOutput.Size" type="System.Drawing.Size, System.Drawing">
+    <value>784, 685</value>
+  </data>
+  <data name="picOutput.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;picOutput.Name" xml:space="preserve">
+    <value>picOutput</value>
+  </data>
+  <data name="&gt;&gt;picOutput.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;picOutput.Parent" xml:space="preserve">
+    <value>grpGiaoDienDoHoa</value>
+  </data>
+  <data name="&gt;&gt;picOutput.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;lblPrimChucNang.Name" xml:space="preserve">
+    <value>lblPrimChucNang</value>
+  </data>
+  <data name="&gt;&gt;lblPrimChucNang.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.MetroLabel, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;lblPrimChucNang.Parent" xml:space="preserve">
+    <value>grpChucNang</value>
+  </data>
+  <data name="&gt;&gt;lblPrimChucNang.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;cboDinhBatDau.Name" xml:space="preserve">
+    <value>cboDinhBatDau</value>
+  </data>
+  <data name="&gt;&gt;cboDinhBatDau.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.AloneComboBox, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;cboDinhBatDau.Parent" xml:space="preserve">
+    <value>grpChucNang</value>
+  </data>
+  <data name="&gt;&gt;cboDinhBatDau.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;lblDinhBatDauChucNang.Name" xml:space="preserve">
+    <value>lblDinhBatDauChucNang</value>
+  </data>
+  <data name="&gt;&gt;lblDinhBatDauChucNang.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.PoisonLabel, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;lblDinhBatDauChucNang.Parent" xml:space="preserve">
+    <value>grpChucNang</value>
+  </data>
+  <data name="&gt;&gt;lblDinhBatDauChucNang.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;btnThucHien.Name" xml:space="preserve">
+    <value>btnThucHien</value>
+  </data>
+  <data name="&gt;&gt;btnThucHien.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.PoisonButton, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnThucHien.Parent" xml:space="preserve">
+    <value>grpChucNang</value>
+  </data>
+  <data name="&gt;&gt;btnThucHien.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="grpChucNang.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 7.8pt, style=Bold</value>
+  </data>
+  <data name="grpChucNang.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1408, 346</value>
+  </data>
+  <data name="grpChucNang.Size" type="System.Drawing.Size, System.Drawing">
+    <value>352, 394</value>
+  </data>
+  <data name="grpChucNang.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="grpChucNang.Text" xml:space="preserve">
+    <value>Chức năng</value>
+  </data>
+  <data name="&gt;&gt;grpChucNang.Name" xml:space="preserve">
+    <value>grpChucNang</value>
+  </data>
+  <data name="&gt;&gt;grpChucNang.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.ParrotGroupBox, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;grpChucNang.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;grpChucNang.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="lblPrimChucNang.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="lblPrimChucNang.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblPrimChucNang.Location" type="System.Drawing.Point, System.Drawing">
+    <value>15, 26</value>
+  </data>
+  <data name="lblPrimChucNang.Size" type="System.Drawing.Size, System.Drawing">
+    <value>169, 29</value>
+  </data>
+  <data name="lblPrimChucNang.TabIndex" type="System.Int32, mscorlib">
+    <value>29</value>
+  </data>
+  <data name="lblPrimChucNang.Text" xml:space="preserve">
+    <value>Prim</value>
+  </data>
+  <data name="&gt;&gt;lblPrimChucNang.Name" xml:space="preserve">
+    <value>lblPrimChucNang</value>
+  </data>
+  <data name="&gt;&gt;lblPrimChucNang.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.MetroLabel, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;lblPrimChucNang.Parent" xml:space="preserve">
+    <value>grpChucNang</value>
+  </data>
+  <data name="&gt;&gt;lblPrimChucNang.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="cboDinhBatDau.ItemHeight" type="System.Int32, mscorlib">
+    <value>20</value>
+  </data>
+  <data name="cboDinhBatDau.Location" type="System.Drawing.Point, System.Drawing">
+    <value>141, 61</value>
+  </data>
+  <data name="cboDinhBatDau.Size" type="System.Drawing.Size, System.Drawing">
+    <value>63, 26</value>
+  </data>
+  <data name="cboDinhBatDau.TabIndex" type="System.Int32, mscorlib">
+    <value>24</value>
+  </data>
+  <data name="&gt;&gt;cboDinhBatDau.Name" xml:space="preserve">
+    <value>cboDinhBatDau</value>
+  </data>
+  <data name="&gt;&gt;cboDinhBatDau.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.AloneComboBox, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;cboDinhBatDau.Parent" xml:space="preserve">
+    <value>grpChucNang</value>
+  </data>
+  <data name="&gt;&gt;cboDinhBatDau.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="lblDinhBatDauChucNang.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblDinhBatDauChucNang.Location" type="System.Drawing.Point, System.Drawing">
+    <value>15, 61</value>
+  </data>
+  <data name="lblDinhBatDauChucNang.Size" type="System.Drawing.Size, System.Drawing">
+    <value>88, 20</value>
+  </data>
+  <data name="lblDinhBatDauChucNang.TabIndex" type="System.Int32, mscorlib">
+    <value>23</value>
+  </data>
+  <data name="lblDinhBatDauChucNang.Text" xml:space="preserve">
+    <value>Đỉnh bắt đầu</value>
+  </data>
+  <data name="&gt;&gt;lblDinhBatDauChucNang.Name" xml:space="preserve">
+    <value>lblDinhBatDauChucNang</value>
+  </data>
+  <data name="&gt;&gt;lblDinhBatDauChucNang.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.PoisonLabel, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;lblDinhBatDauChucNang.Parent" xml:space="preserve">
+    <value>grpChucNang</value>
+  </data>
+  <data name="&gt;&gt;lblDinhBatDauChucNang.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="btnThucHien.Location" type="System.Drawing.Point, System.Drawing">
+    <value>15, 110</value>
+  </data>
+  <data name="btnThucHien.Size" type="System.Drawing.Size, System.Drawing">
+    <value>327, 42</value>
+  </data>
+  <data name="btnThucHien.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="btnThucHien.Text" xml:space="preserve">
+    <value>Thực hiện Prim</value>
+  </data>
+  <data name="&gt;&gt;btnThucHien.Name" xml:space="preserve">
+    <value>btnThucHien</value>
+  </data>
+  <data name="&gt;&gt;btnThucHien.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.PoisonButton, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnThucHien.Parent" xml:space="preserve">
+    <value>grpChucNang</value>
+  </data>
+  <data name="&gt;&gt;btnThucHien.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;tabThemDinhCanh.Name" xml:space="preserve">
+    <value>tabThemDinhCanh</value>
+  </data>
+  <data name="&gt;&gt;tabThemDinhCanh.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.MaterialShowTabControl, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;tabThemDinhCanh.Parent" xml:space="preserve">
+    <value>grpThemDinhCanh</value>
+  </data>
+  <data name="&gt;&gt;tabThemDinhCanh.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="grpThemDinhCanh.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 7.8pt, style=Bold</value>
+  </data>
+  <data name="grpThemDinhCanh.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1408, 6</value>
+  </data>
+  <data name="grpThemDinhCanh.Size" type="System.Drawing.Size, System.Drawing">
+    <value>352, 332</value>
+  </data>
+  <data name="grpThemDinhCanh.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="grpThemDinhCanh.Text" xml:space="preserve">
+    <value>Thêm đỉnh, cạnh</value>
+  </data>
+  <data name="&gt;&gt;grpThemDinhCanh.Name" xml:space="preserve">
+    <value>grpThemDinhCanh</value>
+  </data>
+  <data name="&gt;&gt;grpThemDinhCanh.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.ParrotGroupBox, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;grpThemDinhCanh.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;grpThemDinhCanh.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;tpAddVertex.Name" xml:space="preserve">
+    <value>tpAddVertex</value>
+  </data>
+  <data name="&gt;&gt;tpAddVertex.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tpAddVertex.Parent" xml:space="preserve">
+    <value>tabThemDinhCanh</value>
+  </data>
+  <data name="&gt;&gt;tpAddVertex.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;tpAddEdge.Name" xml:space="preserve">
+    <value>tpAddEdge</value>
+  </data>
+  <data name="&gt;&gt;tpAddEdge.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tpAddEdge.Parent" xml:space="preserve">
+    <value>tabThemDinhCanh</value>
+  </data>
+  <data name="&gt;&gt;tpAddEdge.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="tabThemDinhCanh.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 7.8pt</value>
+  </data>
+  <data name="tabThemDinhCanh.Location" type="System.Drawing.Point, System.Drawing">
+    <value>15, 47</value>
+  </data>
+  <data name="tabThemDinhCanh.Size" type="System.Drawing.Size, System.Drawing">
+    <value>327, 260</value>
+  </data>
+  <data name="tabThemDinhCanh.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
+  </data>
+  <data name="&gt;&gt;tabThemDinhCanh.Name" xml:space="preserve">
+    <value>tabThemDinhCanh</value>
+  </data>
+  <data name="&gt;&gt;tabThemDinhCanh.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.MaterialShowTabControl, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;tabThemDinhCanh.Parent" xml:space="preserve">
+    <value>grpThemDinhCanh</value>
+  </data>
+  <data name="&gt;&gt;tabThemDinhCanh.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;btnThemDinh.Name" xml:space="preserve">
+    <value>btnThemDinh</value>
+  </data>
+  <data name="&gt;&gt;btnThemDinh.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.PoisonButton, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnThemDinh.Parent" xml:space="preserve">
+    <value>tpAddVertex</value>
+  </data>
+  <data name="&gt;&gt;btnThemDinh.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="tpAddVertex.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 25</value>
+  </data>
+  <data name="tpAddVertex.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="tpAddVertex.Size" type="System.Drawing.Size, System.Drawing">
+    <value>319, 231</value>
+  </data>
+  <data name="tpAddVertex.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="tpAddVertex.Text" xml:space="preserve">
+    <value>Đỉnh</value>
+  </data>
+  <data name="&gt;&gt;tpAddVertex.Name" xml:space="preserve">
+    <value>tpAddVertex</value>
+  </data>
+  <data name="&gt;&gt;tpAddVertex.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tpAddVertex.Parent" xml:space="preserve">
+    <value>tabThemDinhCanh</value>
+  </data>
+  <data name="&gt;&gt;tpAddVertex.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btnThemDinh.Location" type="System.Drawing.Point, System.Drawing">
+    <value>11, 17</value>
+  </data>
+  <data name="btnThemDinh.Size" type="System.Drawing.Size, System.Drawing">
+    <value>137, 42</value>
+  </data>
+  <data name="btnThemDinh.TabIndex" type="System.Int32, mscorlib">
+    <value>21</value>
+  </data>
+  <data name="btnThemDinh.Text" xml:space="preserve">
+    <value>Thêm</value>
+  </data>
+  <data name="&gt;&gt;btnThemDinh.Name" xml:space="preserve">
+    <value>btnThemDinh</value>
+  </data>
+  <data name="&gt;&gt;btnThemDinh.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.PoisonButton, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnThemDinh.Parent" xml:space="preserve">
+    <value>tpAddVertex</value>
+  </data>
+  <data name="&gt;&gt;btnThemDinh.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;cboDinhSau.Name" xml:space="preserve">
+    <value>cboDinhSau</value>
+  </data>
+  <data name="&gt;&gt;cboDinhSau.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.AloneComboBox, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;cboDinhSau.Parent" xml:space="preserve">
+    <value>tpAddEdge</value>
+  </data>
+  <data name="&gt;&gt;cboDinhSau.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;cboDinhTruoc.Name" xml:space="preserve">
+    <value>cboDinhTruoc</value>
+  </data>
+  <data name="&gt;&gt;cboDinhTruoc.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.AloneComboBox, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;cboDinhTruoc.Parent" xml:space="preserve">
+    <value>tpAddEdge</value>
+  </data>
+  <data name="&gt;&gt;cboDinhTruoc.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;btnThemCanh.Name" xml:space="preserve">
+    <value>btnThemCanh</value>
+  </data>
+  <data name="&gt;&gt;btnThemCanh.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.PoisonButton, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnThemCanh.Parent" xml:space="preserve">
+    <value>tpAddEdge</value>
+  </data>
+  <data name="&gt;&gt;btnThemCanh.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;lblTrongSoAdd.Name" xml:space="preserve">
+    <value>lblTrongSoAdd</value>
+  </data>
+  <data name="&gt;&gt;lblTrongSoAdd.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.PoisonLabel, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;lblTrongSoAdd.Parent" xml:space="preserve">
+    <value>tpAddEdge</value>
+  </data>
+  <data name="&gt;&gt;lblTrongSoAdd.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;lblDinhTruocAdd.Name" xml:space="preserve">
+    <value>lblDinhTruocAdd</value>
+  </data>
+  <data name="&gt;&gt;lblDinhTruocAdd.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.PoisonLabel, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;lblDinhTruocAdd.Parent" xml:space="preserve">
+    <value>tpAddEdge</value>
+  </data>
+  <data name="&gt;&gt;lblDinhTruocAdd.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;lblDinhSauAdd.Name" xml:space="preserve">
+    <value>lblDinhSauAdd</value>
+  </data>
+  <data name="&gt;&gt;lblDinhSauAdd.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.PoisonLabel, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;lblDinhSauAdd.Parent" xml:space="preserve">
+    <value>tpAddEdge</value>
+  </data>
+  <data name="&gt;&gt;lblDinhSauAdd.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;txtTrongSoThemCanh.Name" xml:space="preserve">
+    <value>txtTrongSoThemCanh</value>
+  </data>
+  <data name="&gt;&gt;txtTrongSoThemCanh.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.PoisonTextBox, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;txtTrongSoThemCanh.Parent" xml:space="preserve">
+    <value>tpAddEdge</value>
+  </data>
+  <data name="&gt;&gt;txtTrongSoThemCanh.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="tpAddEdge.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 25</value>
+  </data>
+  <data name="tpAddEdge.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="tpAddEdge.Size" type="System.Drawing.Size, System.Drawing">
+    <value>319, 231</value>
+  </data>
+  <data name="tpAddEdge.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="tpAddEdge.Text" xml:space="preserve">
+    <value>Cạnh</value>
+  </data>
+  <data name="&gt;&gt;tpAddEdge.Name" xml:space="preserve">
+    <value>tpAddEdge</value>
+  </data>
+  <data name="&gt;&gt;tpAddEdge.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tpAddEdge.Parent" xml:space="preserve">
+    <value>tabThemDinhCanh</value>
+  </data>
+  <data name="&gt;&gt;tpAddEdge.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="cboDinhSau.ItemHeight" type="System.Int32, mscorlib">
+    <value>20</value>
+  </data>
+  <data name="cboDinhSau.Location" type="System.Drawing.Point, System.Drawing">
+    <value>122, 68</value>
+  </data>
+  <data name="cboDinhSau.Size" type="System.Drawing.Size, System.Drawing">
+    <value>63, 26</value>
+  </data>
+  <data name="cboDinhSau.TabIndex" type="System.Int32, mscorlib">
+    <value>22</value>
+  </data>
+  <data name="&gt;&gt;cboDinhSau.Name" xml:space="preserve">
+    <value>cboDinhSau</value>
+  </data>
+  <data name="&gt;&gt;cboDinhSau.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.AloneComboBox, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;cboDinhSau.Parent" xml:space="preserve">
+    <value>tpAddEdge</value>
+  </data>
+  <data name="&gt;&gt;cboDinhSau.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="cboDinhTruoc.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 7.8pt</value>
+  </data>
+  <data name="cboDinhTruoc.ItemHeight" type="System.Int32, mscorlib">
+    <value>20</value>
+  </data>
+  <data name="cboDinhTruoc.Location" type="System.Drawing.Point, System.Drawing">
+    <value>122, 28</value>
+  </data>
+  <data name="cboDinhTruoc.Size" type="System.Drawing.Size, System.Drawing">
+    <value>63, 26</value>
+  </data>
+  <data name="cboDinhTruoc.TabIndex" type="System.Int32, mscorlib">
+    <value>22</value>
+  </data>
+  <data name="&gt;&gt;cboDinhTruoc.Name" xml:space="preserve">
+    <value>cboDinhTruoc</value>
+  </data>
+  <data name="&gt;&gt;cboDinhTruoc.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.AloneComboBox, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;cboDinhTruoc.Parent" xml:space="preserve">
+    <value>tpAddEdge</value>
+  </data>
+  <data name="&gt;&gt;cboDinhTruoc.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="btnThemCanh.Location" type="System.Drawing.Point, System.Drawing">
+    <value>13, 147</value>
+  </data>
+  <data name="btnThemCanh.Size" type="System.Drawing.Size, System.Drawing">
+    <value>137, 42</value>
+  </data>
+  <data name="btnThemCanh.TabIndex" type="System.Int32, mscorlib">
+    <value>20</value>
+  </data>
+  <data name="btnThemCanh.Text" xml:space="preserve">
+    <value>Thêm</value>
+  </data>
+  <data name="&gt;&gt;btnThemCanh.Name" xml:space="preserve">
+    <value>btnThemCanh</value>
+  </data>
+  <data name="&gt;&gt;btnThemCanh.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.PoisonButton, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnThemCanh.Parent" xml:space="preserve">
+    <value>tpAddEdge</value>
+  </data>
+  <data name="&gt;&gt;btnThemCanh.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="lblTrongSoAdd.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblTrongSoAdd.Location" type="System.Drawing.Point, System.Drawing">
+    <value>13, 109</value>
+  </data>
+  <data name="lblTrongSoAdd.Size" type="System.Drawing.Size, System.Drawing">
+    <value>62, 20</value>
+  </data>
+  <data name="lblTrongSoAdd.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="lblTrongSoAdd.Text" xml:space="preserve">
+    <value>Trọng số</value>
+  </data>
+  <data name="&gt;&gt;lblTrongSoAdd.Name" xml:space="preserve">
+    <value>lblTrongSoAdd</value>
+  </data>
+  <data name="&gt;&gt;lblTrongSoAdd.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.PoisonLabel, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;lblTrongSoAdd.Parent" xml:space="preserve">
+    <value>tpAddEdge</value>
+  </data>
+  <data name="&gt;&gt;lblTrongSoAdd.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="lblDinhTruocAdd.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblDinhTruocAdd.Location" type="System.Drawing.Point, System.Drawing">
+    <value>13, 28</value>
+  </data>
+  <data name="lblDinhTruocAdd.Size" type="System.Drawing.Size, System.Drawing">
+    <value>74, 20</value>
+  </data>
+  <data name="lblDinhTruocAdd.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="lblDinhTruocAdd.Text" xml:space="preserve">
+    <value>Đỉnh trước</value>
+  </data>
+  <data name="&gt;&gt;lblDinhTruocAdd.Name" xml:space="preserve">
+    <value>lblDinhTruocAdd</value>
+  </data>
+  <data name="&gt;&gt;lblDinhTruocAdd.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.PoisonLabel, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;lblDinhTruocAdd.Parent" xml:space="preserve">
+    <value>tpAddEdge</value>
+  </data>
+  <data name="&gt;&gt;lblDinhTruocAdd.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="lblDinhSauAdd.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblDinhSauAdd.Location" type="System.Drawing.Point, System.Drawing">
+    <value>13, 68</value>
+  </data>
+  <data name="lblDinhSauAdd.Size" type="System.Drawing.Size, System.Drawing">
+    <value>63, 20</value>
+  </data>
+  <data name="lblDinhSauAdd.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="lblDinhSauAdd.Text" xml:space="preserve">
+    <value>Đỉnh sau</value>
+  </data>
+  <data name="&gt;&gt;lblDinhSauAdd.Name" xml:space="preserve">
+    <value>lblDinhSauAdd</value>
+  </data>
+  <data name="&gt;&gt;lblDinhSauAdd.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.PoisonLabel, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;lblDinhSauAdd.Parent" xml:space="preserve">
+    <value>tpAddEdge</value>
+  </data>
+  <data name="&gt;&gt;lblDinhSauAdd.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="resource.Image4" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="resource.ImeMode4" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="resource.Location4" type="System.Drawing.Point, System.Drawing">
+    <value>38, 1</value>
+  </data>
+  <data name="resource.Size4" type="System.Drawing.Size, System.Drawing">
+    <value>25, 25</value>
+  </data>
+  <data name="resource.TabIndex4" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="resource.Visible4" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="txtTrongSoThemCanh.Location" type="System.Drawing.Point, System.Drawing">
+    <value>122, 109</value>
+  </data>
+  <data name="txtTrongSoThemCanh.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 27</value>
+  </data>
+  <data name="txtTrongSoThemCanh.TabIndex" type="System.Int32, mscorlib">
+    <value>18</value>
+  </data>
+  <data name="&gt;&gt;txtTrongSoThemCanh.Name" xml:space="preserve">
+    <value>txtTrongSoThemCanh</value>
+  </data>
+  <data name="&gt;&gt;txtTrongSoThemCanh.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.PoisonTextBox, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;txtTrongSoThemCanh.Parent" xml:space="preserve">
+    <value>tpAddEdge</value>
+  </data>
+  <data name="&gt;&gt;txtTrongSoThemCanh.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="panel1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="panel1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="panel1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 207</value>
+  </data>
+  <data name="panel1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1846, 785</value>
+  </data>
+  <data name="panel1.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="&gt;&gt;panel1.Name" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;panel1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panel1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;panel1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>71</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>8, 16</value>
+  </data>
+  <data name="$this.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>1866, 1002</value>
+  </data>
+  <data name="$this.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 7.8pt</value>
+  </data>
+  <data name="$this.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>10, 60, 10, 10</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Graph Theory Project</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>Form1</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Forms.PoisonForm, ReaLTaiizor, Version=3.7.8.8, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+</root>

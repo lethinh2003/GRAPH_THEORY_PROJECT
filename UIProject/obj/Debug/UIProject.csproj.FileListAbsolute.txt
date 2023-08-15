@@ -1,0 +1,15 @@
+D:\Lý thuyết đồ thị - ứng dụng\Project\UIProject\UIProject\bin\Debug\UIProject.exe.config
+D:\Lý thuyết đồ thị - ứng dụng\Project\UIProject\UIProject\bin\Debug\UIProject.exe
+D:\Lý thuyết đồ thị - ứng dụng\Project\UIProject\UIProject\bin\Debug\UIProject.pdb
+D:\Lý thuyết đồ thị - ứng dụng\Project\UIProject\UIProject\obj\Debug\UIProject.csproj.AssemblyReference.cache
+D:\Lý thuyết đồ thị - ứng dụng\Project\UIProject\UIProject\obj\Debug\UIProject.csproj.SuggestedBindingRedirects.cache
+D:\Lý thuyết đồ thị - ứng dụng\Project\UIProject\UIProject\obj\Debug\UIProject.Form1.resources
+D:\Lý thuyết đồ thị - ứng dụng\Project\UIProject\UIProject\obj\Debug\UIProject.Properties.Resources.resources
+D:\Lý thuyết đồ thị - ứng dụng\Project\UIProject\UIProject\obj\Debug\UIProject.csproj.GenerateResource.cache
+D:\Lý thuyết đồ thị - ứng dụng\Project\UIProject\UIProject\obj\Debug\UIProject.csproj.CoreCompileInputs.cache
+D:\Lý thuyết đồ thị - ứng dụng\Project\UIProject\UIProject\obj\Debug\UIProject.exe
+D:\Lý thuyết đồ thị - ứng dụng\Project\UIProject\UIProject\obj\Debug\UIProject.pdb
+D:\Lý thuyết đồ thị - ứng dụng\Project\UIProject\UIProject\bin\Debug\ReaLTaiizor.dll
+D:\Lý thuyết đồ thị - ứng dụng\Project\UIProject\UIProject\bin\Debug\ReaLTaiizor.xml
+D:\Lý thuyết đồ thị - ứng dụng\Project\UIProject\UIProject\obj\Debug\UIProject.csproj.CopyComplete
+D:\Lý thuyết đồ thị - ứng dụng\Project\UIProject\UIProject\obj\Debug\UIProject.AboutUs.resources
